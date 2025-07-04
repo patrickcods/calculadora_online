@@ -1,0 +1,27 @@
+.espaco{
+    background-color: gray; 
+    color:aliceblue;
+    max-width: 550px;
+}
+
+#operacao{
+    max-width: 250px;
+    max-height: 50px;
+}
+
+p{
+    font-size: 25px;
+    font-weight:200;
+}
+
+#resposta{
+    font-size: 25px;
+    font-weight:200;
+}
+
+h2{
+   display: block;
+    background-color:rgb(107, 206, 239);
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
